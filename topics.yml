@@ -3,7 +3,7 @@ profiles:
     include:
       - "RNA secondary structure"
       - "RNA structure"
-      - "RNA stucture predicition"
+      - "RNA structure prediction"
       - "protein-RNA interaction"
     exclude:
       - plant
