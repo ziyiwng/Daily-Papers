@@ -1,20 +1,37 @@
 profiles:
-  - name: RNA_structure_prediction
+  - name: enzyme design
     include:
-      - "RNA secondary structure"
-      - "RNA structure"
-      - "RNA structure prediction"
-      - "protein-RNA interaction"
+      - "computational enzyme design"
+      - "enzyme engineering"
+      - "enzyme activity prediction"
+      - "protein design"
+      - "computational protein design"
+      - "de novo enzyme design"
+      - "enzyme active site design"
+      - "catalytic site design"
+      - "enzyme stability design"
+      - "enzyme specificity design"
+      - "rational enzyme design"
+      - "structure-based enzyme design"
+      - "computational redesign of enzymes"
+      - "deep learning in enzyme engineering"
+      - "data-driven enzyme design"
+      - "enzyme structure–function relationship"
+      - "protein–ligand interaction"
     exclude:
       - plant
       - crop
       - agriculture
 
-  - name: RNA_design
+  - name: evaluation of enzymes
     include:
-      - "RNA design"
-      - "RNA sequence design"
-      - "RNA structure design"
+      - "enzyme catalytic activity prediction"
+      - "enzyme function prediction"
+      - "enzyme efficiency prediction"
+      - "enzyme kinetics prediction"
+      - "substrate specificity prediction"
+      - "enzyme activity landscape"
+      - "high-throughput enzyme activity prediction"
     exclude:
       - plant
       - agriculture
