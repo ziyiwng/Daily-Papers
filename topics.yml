@@ -8,7 +8,6 @@ profiles:
         - "enzyme active site design"
         - "structure-based enzyme design"
         - "deep learning enzyme engineering"
-        - "data-driven enzyme design"
         - "enzyme structure-function relationship"
         - "protein-ligand interaction"
     exclude:
@@ -20,11 +19,9 @@ profiles:
     include:
       - "enzyme catalytic activity prediction"
       - "enzyme function prediction"
-      - "enzyme efficiency prediction"
       - "enzyme kinetics prediction"
       - "substrate specificity prediction"
       - "enzyme activity landscape"
-      - "high-throughput enzyme activity prediction"
     exclude:
       - plant
       - agriculture
