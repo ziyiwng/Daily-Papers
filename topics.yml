@@ -16,8 +16,8 @@ profiles:
       - "computational redesign of enzymes"
       - "deep learning in enzyme engineering"
       - "data-driven enzyme design"
-      - "enzyme structure–function relationship"
-      - "protein–ligand interaction"
+      - "enzyme structure-function relationship"
+      - "protein-ligand interaction"
     exclude:
       - plant
       - crop
