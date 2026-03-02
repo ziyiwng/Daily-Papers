@@ -1,23 +1,16 @@
 profiles:
   - name: enzyme design
     include:
-      - "computational enzyme design"
-      - "enzyme engineering"
-      - "enzyme activity prediction"
-      - "protein design"
-      - "computational protein design"
-      - "de novo enzyme design"
-      - "enzyme active site design"
-      - "catalytic site design"
-      - "enzyme stability design"
-      - "enzyme specificity design"
-      - "rational enzyme design"
-      - "structure-based enzyme design"
-      - "computational redesign of enzymes"
-      - "deep learning in enzyme engineering"
-      - "data-driven enzyme design"
-      - "enzyme structure-function relationship"
-      - "protein-ligand interaction"
+        - "computational enzyme design"
+        - "enzyme engineering"
+        - "protein design"
+        - "de novo enzyme design"
+        - "enzyme active site design"
+        - "structure-based enzyme design"
+        - "deep learning enzyme engineering"
+        - "data-driven enzyme design"
+        - "enzyme structure-function relationship"
+        - "protein-ligand interaction"
     exclude:
       - plant
       - crop
